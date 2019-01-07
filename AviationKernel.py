@@ -10,7 +10,7 @@ test_path = "data/test.csv"
 output_path = "data/submission.csv"
 
 
-
+#test for commit
 
 def import_csv_to_list(path):
     data = []
